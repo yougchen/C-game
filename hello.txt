@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-hello mmmm
-=======
-hello mmgjggfdgfddfggm
->>>>>>> guest3
-=======
-hello mmmm
->>>>>>> b0c0596b251c1d402a296d648fcd2f360edb2197
